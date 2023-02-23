@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,qBAAsB,CACtB,wBACF,CAEA,MACE,iBACF","file":"style.622c5c57.css","sourceRoot":"..\\public","sourcesContent":["* {\r\n  margin: 0;\r\n  box-sizing: border-box;\r\n  background-color: rgb(250, 249, 246);\r\n}\r\n\r\nh1,h2{\r\n  text-align: center;\r\n}\r\n\r\n\r\n"]}
